@@ -5,6 +5,9 @@
 # Don't use `var`!
 
 A minimalistic library (5 KB) which will prevent code from compiling if `var` is used as a type identifier instead of the type name.
+![image](https://github.com/Unknown6656-Megacorp/DontUseVar/assets/8807985/a6ec0c32-fc18-44c7-b416-d3f075931736)
+
+
 To use this library in your project, use one of the following methods:
 
 
